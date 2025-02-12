@@ -10,7 +10,7 @@ body  {
     display: flex;
     /*justify-content: center;
     align-items: center;*/
-    width:vh;
+    width: 50vh;
     height: 20vh;
 }
 .contes > .wrapper-contes > img {
